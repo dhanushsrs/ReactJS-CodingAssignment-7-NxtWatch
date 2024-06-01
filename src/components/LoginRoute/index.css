@@ -1,0 +1,14 @@
+.checkbox-container {
+  display: flex;
+  align-self: flex-start;
+}
+
+.error {
+  color: #ff0000;
+  margin: 0px;
+  font-size: 14px;
+  padding-top: 6px;
+  font-weight: 400;
+  text-align: left;
+  width: 100%;
+}
